@@ -1,4 +1,4 @@
-# Python_Small_Projects
+# Python Small Projects
  
 This repository contains different projects that I developed using python and its libraries, each project has it description.
 
