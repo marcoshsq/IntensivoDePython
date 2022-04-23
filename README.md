@@ -1,6 +1,6 @@
 # Python Small Projects
  
-This repository contains different projects that I developed using python and its libraries, each project has it description.
+This repository contains different projects that I developed using python and its libraries.
 
 ##
 
