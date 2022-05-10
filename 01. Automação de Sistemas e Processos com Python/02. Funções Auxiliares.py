@@ -40,15 +40,3 @@ def copiar_colar():
     pyperclip.copy(texto)
     pyautogui.hotkey("ctrl", "v")
     time.sleep(5)
-
-
-# Passo 01. Escrever um código para entrar no sistema;
-# Passo 02. Navegar no sistema e encontrar o arquivo;
-# Passo 03. Exportar/Importar o arquivo;
-# Passo 04. Ler o arquivo;
-# Passo 05. Realizar a análise de indicadores;
-# Passo 06. Criar e enviar um relatório.
-
-
-# Essa linha é para escolher o perfil do usuário do google chrome.
-# pyautogui.click(x=592, y=317, clicks=1)
