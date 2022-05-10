@@ -1,6 +1,15 @@
 import pyautogui
 import pyperclip
 import time
+import pandas as pd
+
+"""
+Este projeto usa a biblioteca PyAutoGUI, o que o torna um código 
+muito específico devido aos comandos de clique nas coordenadas na tela. 
+
+Em caso de reutilização, adapte as coordenadas.
+
+"""
 
 
 def posicao_cursor():
@@ -31,6 +40,14 @@ def copiar_colar():
     pyperclip.copy(texto)
     pyautogui.hotkey("ctrl", "v")
     time.sleep(5)
+
+
+# Passo 01. Escrever um código para entrar no sistema;
+# Passo 02. Navegar no sistema e encontrar o arquivo;
+# Passo 03. Exportar/Importar o arquivo;
+# Passo 04. Ler o arquivo;
+# Passo 05. Realizar a análise de indicadores;
+# Passo 06. Criar e enviar um relatório.
 
 
 # Essa linha é para escolher o perfil do usuário do google chrome.
