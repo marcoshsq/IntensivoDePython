@@ -1,10 +1,6 @@
-import pyautogui
-import pyperclip
-import time
+
 
 # Passo 01. Escrever um código para entrar no sistema;
-pyautogui.hotkey("ctrl", "t")
-
 # Passo 02. Navegar no sistema e encontrar o arquivo;
 # Passo 03. Exportar/Importar o arquivo;
 # Passo 04. Ler o arquivo;
