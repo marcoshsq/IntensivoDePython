@@ -12,7 +12,16 @@ Usando o PyAutoGui, uma biblioteca de automação de comandos do mouse e do tecl
 
 ##
 
-### Projeto 02 - []()
+### Projeto 02 - [Análise de Dados com Python](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/02.%20An%C3%A1lise%20de%20Dados%20com%20Python)
+
+#### Desafio: 
+
+Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
+O problema é que, analisando o histórico dos clientes dos últimos anos, você percebeu que a empresa está com Churn de mais de 26% dos clientes.
+
+Isso representa uma perda de milhões para a empresa.
+
+O que a empresa precisa fazer para resolver isso?
 
 ##
 
