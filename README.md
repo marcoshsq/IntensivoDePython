@@ -25,7 +25,19 @@ O que a empresa precisa fazer para resolver isso?
 
 ##
 
-### Projeto 03 - []()
+### Projeto 03 - [Automação Web e Busca de Informações com Python](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/03.%20Automa%C3%A7%C3%A3o%20Web%20e%20Busca%20de%20Informa%C3%A7%C3%B5es%20com%20Python)
+
+#### Desafio:
+
+Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de:
+
+    Dólar
+    Euro
+    Ouro
+
+Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e saber quanto devemos cobrar pelos nossos produtos, considerando uma margem de contribuição que temos na nossa base de dados.
+
+Para isso, vamos criar uma automação web usando o selenium. 
 
 ##
 
