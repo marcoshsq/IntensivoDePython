@@ -59,12 +59,11 @@ Nosso desafio é conseguir prever as vendas que vamos ter em determinado períod
 
 Passo a Passo do Projeto de Ciência de Dados:
 
-    Passo 1: Entendimento do Desafio;
-    Passo 2: Entendimento da Área/Empresa;
-    Passo 3: Extração/Obtenção de Dados;
-    Passo 4: Data Cleaning;
-    Passo 5: EDA;
-    Passo 6: Modelagem do Algoritmos;
-    Passo 7: Interpretação de Resultados.
+    - Passo 01: Ask - Entendimento do Desafio/Entendimento da Área/Empresa;
+    - Passo 02: Prepare - Extração/Obtenção de Dados;
+    - Passo 03: Process - Tratamento/Limpeza dos Dados (Data cleansing);
+    - Passo 04: Analyse - Análise Exploratória (EDA);
+    - Passo 05: Share - Modelagem dos Algoritmos, plotagem das previsões;
+    - Passo 06: Act - Interpretação de Resultados.
     
 ---
