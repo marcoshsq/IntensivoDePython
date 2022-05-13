@@ -55,6 +55,6 @@ Passo a Passo do Projeto de Ciência de Dados:
     Passo 4: Data Cleaning;
     Passo 5: EDA;
     Passo 6: Modelagem do Algoritmos;
-    Passo 7: Interpretação de Resultados;
+    Passo 7: Interpretação de Resultados.
     
 ---
