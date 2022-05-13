@@ -41,7 +41,7 @@ Para isso, vamos criar uma automação web usando o selenium.
 
 ##
 
-### Projeto 04 - [Ciência de Dados - Previsão de Vendas]()
+### Projeto 04 - [Ciência de Dados - Previsão de Vendas](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/04.%20Projeto%20Ci%C3%AAncia%20de%20Dados%20-%20Previs%C3%A3o%20de%20Vendas)
 
 #### Desafio:
 
