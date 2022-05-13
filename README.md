@@ -1,4 +1,9 @@
-# Intensivão de Python - Hashtag Treinamentos
+<p align="center">
+  <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
+    <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="Developer Roadmap" >
+  </a>
+</p>
+  <h1 align="center">Intensivão de Python - Hashtag Treinamentos</h1>
 
 ### Projeto 01 - [Automação de Sistemas e Processos com Python](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/01.%20Automa%C3%A7%C3%A3o%20de%20Sistemas%20e%20Processos%20com%20Python)
 
