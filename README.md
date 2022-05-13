@@ -4,6 +4,11 @@
   </a>
 </p>
   <h1 align="center">Intensivão de Python - Hashtag Treinamentos</h1>
+</div>
+
+O Intensivão de Python é um evento gratuito oferecido pela escola [Hashtag Treinamentos](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/videos), onde, durante quatro dias, são realizados quatro projetos utilizando a linguagem python.
+
+##
 
 ### Projeto 01 - [Automação de Sistemas e Processos com Python](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/01.%20Automa%C3%A7%C3%A3o%20de%20Sistemas%20e%20Processos%20com%20Python)
 
