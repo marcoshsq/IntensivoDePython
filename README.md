@@ -41,4 +41,20 @@ Para isso, vamos criar uma automação web usando o selenium.
 
 ##
 
-### Projeto 04 - []()
+### Projeto 04 - [Ciência de Dados - Previsão de Vendas]()
+
+#### Desafio:
+
+Nosso desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa "Hashtag" investe: TV, Jornal e Rádio.
+
+Passo a Passo do Projeto de Ciência de Dados:
+
+    Passo 1: Entendimento do Desafio;
+    Passo 2: Entendimento da Área/Empresa;
+    Passo 3: Extração/Obtenção de Dados;
+    Passo 4: Data Cleaning;
+    Passo 5: EDA;
+    Passo 6: Modelagem do Algoritmos;
+    Passo 7: Interpretação de Resultados;
+    
+---
