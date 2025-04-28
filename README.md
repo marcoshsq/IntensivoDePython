@@ -1,11 +1,5 @@
 # 🐍 Intensivão de Python - Hashtag Treinamentos
 
-<p align="center">
-  <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-    <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="Python Logo">
-  </a>
-</p>
-
 O **Intensivão de Python** é um evento gratuito oferecido pela escola [Hashtag Treinamentos](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/videos), que teve duração de quatro dias e envolveu a construção de quatro projetos práticos utilizando a linguagem Python.
 
 Neste repositório, você encontrará os projetos desenvolvidos durante o evento, com desafios reais que simulam problemas encontrados no mercado. Os projetos envolvem automação, análise de dados, web scraping e ciência de dados, abordando desde o uso de bibliotecas de automação como o **PyAutoGui**, até análise preditiva com **machine learning**.
