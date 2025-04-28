@@ -1,69 +1,76 @@
+# 🐍 Intensivão de Python - Hashtag Treinamentos
+
 <p align="center">
   <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-    <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="Developer Roadmap" >
+    <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="Python Logo">
   </a>
 </p>
-  <h1 align="center">Intensivão de Python - Hashtag Treinamentos</h1>
-</div>
 
-O Intensivão de Python é um evento gratuito oferecido pela escola [Hashtag Treinamentos](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/videos), onde, durante quatro dias, são realizados quatro projetos utilizando a linguagem python.
+O **Intensivão de Python** é um evento gratuito oferecido pela escola [Hashtag Treinamentos](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/videos), que teve duração de quatro dias e envolveu a construção de quatro projetos práticos utilizando a linguagem Python.
 
-##
+Neste repositório, você encontrará os projetos desenvolvidos durante o evento, com desafios reais que simulam problemas encontrados no mercado. Os projetos envolvem automação, análise de dados, web scraping e ciência de dados, abordando desde o uso de bibliotecas de automação como o **PyAutoGui**, até análise preditiva com **machine learning**.
 
-### Projeto 01 - [Automação de Sistemas e Processos com Python](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/01.%20Automa%C3%A7%C3%A3o%20de%20Sistemas%20e%20Processos%20com%20Python)
+---
 
-#### Desafio:
+## 🚀 Projetos do Intensivão
 
-Todos os dias, o nosso sistema atualiza as vendas do dia anterior. 
+### 🔧 Projeto 01 - [**Automação de Sistemas e Processos com Python**](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/01.%20Automa%C3%A7%C3%A3o%20de%20Sistemas%20e%20Processos%20com%20Python)
 
-O seu trabalho diário, como analista, é enviar um e-mail para a diretoria, assim que começar a trabalhar, com o faturamento e a quantidade de produtos vendidos no dia anterior
+**Desafio:**
+Automatize o envio diário de relatórios para a diretoria com informações sobre as vendas do dia anterior. O sistema deve realizar a importação dos dados, fazer uma análise simples com **Pandas** e enviar o relatório por e-mail, tudo de forma automatizada utilizando **PyAutoGui**.
 
-Usando o PyAutoGui, uma biblioteca de automação de comandos do mouse e do teclado, criamos um programa que realiza a importação da base de dados, realiza uma análise simples dos dados através do Pandas e envia um relatório por e-mail.
+**Objetivos**:
+- Automação de tarefas repetitivas
+- Análise de dados com **Pandas**
+- Envio de e-mails automáticos
 
-##
+---
 
-### Projeto 02 - [Análise de Dados com Python](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/02.%20An%C3%A1lise%20de%20Dados%20com%20Python)
+### 📊 Projeto 02 - [**Análise de Dados com Python**](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/02.%20An%C3%A1lise%20de%20Dados%20com%20Python)
 
-#### Desafio: 
+**Desafio:**
+Analisando o histórico de clientes de uma empresa de telecom, o objetivo é identificar o motivo do alto **Churn** (taxa de cancelamento) e propor ações para diminuir as perdas. A análise deve considerar os diferentes serviços contratados pelos clientes e como esses dados podem ser utilizados para reduzir o churn.
 
-Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
-O problema é que, analisando o histórico dos clientes dos últimos anos, você percebeu que a empresa está com Churn de mais de 26% dos clientes.
+**Objetivos**:
+- Manipulação e análise de dados
+- Identificação de padrões e insights em grandes volumes de dados
 
-Isso representa uma perda de milhões para a empresa.
+---
 
-O que a empresa precisa fazer para resolver isso?
+### 🌐 Projeto 03 - [**Automação Web e Busca de Informações com Python**](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/03.%20Automa%C3%A7%C3%A3o%20Web%20e%20Busca%20de%20Informa%C3%A7%C3%B5es%20com%20Python)
 
-##
+**Desafio:**
+Criar uma automação para buscar a cotação do **Dólar**, **Euro** e **Ouro** na internet. O sistema deve fazer o scraping dessas informações e, com base nelas, calcular o preço de venda de produtos de uma importadora.
 
-### Projeto 03 - [Automação Web e Busca de Informações com Python](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/03.%20Automa%C3%A7%C3%A3o%20Web%20e%20Busca%20de%20Informa%C3%A7%C3%B5es%20com%20Python)
+**Objetivos**:
+- Automação web com **Selenium**
+- Coleta de dados em tempo real via **web scraping**
+- Cálculo de preços baseados em dados externos
 
-#### Desafio:
+---
 
-Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de:
+### 📈 Projeto 04 - [**Ciência de Dados - Previsão de Vendas**](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/04.%20Projeto%20Ci%C3%AAncia%20de%20Dados%20-%20Previs%C3%A3o%20de%20Vendas)
 
-    Dólar
-    Euro
-    Ouro
+**Desafio:**
+Utilizar dados históricos de investimentos em mídia (TV, rádio e jornal) para prever as vendas futuras de uma empresa. O projeto segue o processo de **Ciência de Dados**, incluindo desde a coleta e limpeza dos dados até a criação de modelos preditivos para previsão de vendas.
 
-Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e saber quanto devemos cobrar pelos nossos produtos, considerando uma margem de contribuição que temos na nossa base de dados.
+**Objetivos**:
+- Preparação e limpeza de dados
+- Análise exploratória de dados (EDA)
+- Modelagem preditiva e visualização de resultados
 
-Para isso, vamos criar uma automação web usando o selenium. 
+---
 
-##
+## 🎯 Conclusão
 
-### Projeto 04 - [Ciência de Dados - Previsão de Vendas](https://github.com/marcoshsq/Intensivo_de_Python/tree/main/04.%20Projeto%20Ci%C3%AAncia%20de%20Dados%20-%20Previs%C3%A3o%20de%20Vendas)
+Esses projetos são exemplos práticos de como o Python pode ser utilizado para resolver problemas reais do mercado de trabalho. Desde a automação de processos até a análise e previsão de dados, os desafios apresentados são fundamentais para quem busca se aprofundar na programação e na ciência de dados.
 
-#### Desafio:
+### 🔗 Links Úteis
+- [GitHub Marcos Henrique](https://github.com/marcoshsq)
+- [Hashtag Treinamentos - Canal no YouTube](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/videos)
 
-Nosso desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa "Hashtag" investe: TV, Jornal e Rádio.
+---
 
-Passo a Passo do Projeto de Ciência de Dados:
+**Obrigado por visitar!** 😄👋
 
-    - Passo 01: Ask - Entendimento do Desafio/Entendimento da Área/Empresa;
-    - Passo 02: Prepare - Extração/Obtenção de Dados;
-    - Passo 03: Process - Tratamento/Limpeza dos Dados (Data cleansing);
-    - Passo 04: Analyse - Análise Exploratória (EDA);
-    - Passo 05: Share - Modelagem dos Algoritmos, plotagem das previsões;
-    - Passo 06: Act - Interpretação de Resultados.
-    
 ---
